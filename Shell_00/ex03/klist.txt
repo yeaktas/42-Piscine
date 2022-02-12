@@ -1,0 +1,5 @@
+Credentials cache: API:6B09E431-3C95-44CD-A182-548F16DBEC2B
+        Principal: yaktas@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 23 18:16:43 2021  Nov 24 04:16:43 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
