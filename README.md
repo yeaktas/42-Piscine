@@ -15,8 +15,8 @@ Aşağıdaki tablo 42 piscine süresince tamamlamış olduğum projeleri kronolo
 | [C 02](C_02 "C 02") | 100 XP | 75% ✔️| level 4 - 82%|
 | Exam 02 | 225 XP | 42% ✔️| level 5 - 29%|
 | [C 03](C_03 "C 03") | 100 XP | 75% ✔️| level 5 - 64%|
-| [C 04] | 100 XP | 70% ✔️| level 5 - 98%|
-| [C 05] | 100 XP | 80% ✔️| level 6 - 32%|
-| [C 06] | 100 XP | 70% ✔️| level 6 - 62%|
-| [C 07] | 100 XP | 60% ✔️| level 6 - 87%|
+| [C 04](C_04 "C 04") | 100 XP | 70% ✔️| level 5 - 98%|
+| [C 05](C_05 "C 05") | 100 XP | 80% ✔️| level 6 - 32%|
+| [C 06](C_06 "C 06") | 100 XP | 70% ✔️| level 6 - 62%|
+| [C 07](C_07 "C 07") | 100 XP | 60% ✔️| level 6 - 87%|
 | Final Exam | 375 XP | 24% ❌| - |
