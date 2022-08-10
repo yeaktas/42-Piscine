@@ -5,7 +5,7 @@ Bu depo, 42 Kocaeli'nun piscince bootcampinde 22/kasım/2021'den 17/aralık/2021
 Aşağıdaki tablo 42 piscine süresince tamamlamış olduğum projeleri kronolojik sırasıyla sunmaktadır. Tamamlanan derslerin sırası ve bunlara karşılık gelen seviye öğrenciler arasında değişebilir.   
 
 | Subject | Experience | Status | Level
-| --- | :---: | :---: | :---: |
+| --- | :---: | ---: | --- |
 | Shell 00 | 100 XP | 77% ✔️ | level 0 - 67% |
 | Exam 00 | 225 XP | 48% ✔️| level 1 - 1.54% |
 | C 00 | 100 XP | 85% ✔️ | level 2 - 17%|
