@@ -1,8 +1,8 @@
 # 42-Piscine
-Bu depo, 42 Kocaeli'nun piscince bootcampinde 22/kasım/2021'den 17/aralık/2021'a kadar geliştirilen kodlamayı içerir.
+Bu repo, 42 Kocaeli'nin piscine bootcampinde 22/kasım/2021'den 17/aralık/2021'a kadar geliştirilen kodlamayı içerir.
 
 ## İlerleme
-Aşağıdaki tablo 42 piscine süresince tamamlamış olduğum projeleri kronolojik sırasıyla sunmaktadır. Tamamlanan derslerin sırası ve bunlara karşılık gelen seviye öğrenciler arasında değişebilir.   
+Aşağıdaki tablo 42 piscine süresince tamamlamış olduğum projeleri kronolojik sırasıyla sunmaktadır. Tamamlanan derslerin sırası ve bunlara karşılık gelen seviye öğrenciler arasında değişebilir.
 
 | Subject | Experience | Status | Level
 | --- | :---: | ---: | --- |
@@ -19,4 +19,4 @@ Aşağıdaki tablo 42 piscine süresince tamamlamış olduğum projeleri kronolo
 | [C 05](C_05 "C 05") | 100 XP | 80% ✔️| level 6 - 32%|
 | [C 06](C_06 "C 06") | 100 XP | 70% ✔️| level 6 - 62%|
 | [C 07](C_07 "C 07") | 100 XP | 60% ✔️| level 6 - 87%|
-| Final Exam | 375 XP | 24% ❌| - |
+| Final Exam | 375 XP | 24% ✔️| - |
